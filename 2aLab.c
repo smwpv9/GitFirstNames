@@ -107,8 +107,6 @@ void maximum( void )
 	printf( "Please enter second number: " );
 	scanf( "%f", &two );
 	printf( "The max is %.5f\n", ( one > two ) ? one : two );
-	printf( "Please enter a third number:" );
-	printf( "This is a test comment" );
 	return;
 }
 
